@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"name": "TheOdinProject",
+			"path": "../../Desktop/Desktop/TheOdinProject"
+		},
+		{
+			"name": "odin-links-and-images",
+			"path": "."
+		},
+		{
+			"name": "html-boilerplate",
+			"path": "../../Documents/html-boilerplate"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "odin-links-and-images"
+	}
+}
